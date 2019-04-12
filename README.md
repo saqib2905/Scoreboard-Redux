@@ -1,0 +1,2 @@
+# Scoreboard-Redux
+React-Redux
